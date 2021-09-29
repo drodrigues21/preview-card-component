@@ -29,7 +29,9 @@ Very light gray (background, headings, buttons): hsl(0, 0%, 95%)
 ### Font
 
 - Family: [Lexend Deca](https://fonts.google.com/specimen/Lexend+Deca)
+- font-family: 'Lexend Deca', sans-serif;
 - Weights: 400
 
 - Family: [Big Shoulders Display](https://fonts.google.com/specimen/Big+Shoulders+Display)
+- font-family: 'Big Shoulders Display', cursive; 
 - Weights: 700
